@@ -27,7 +27,7 @@ html {
 }
 
 body {
-	font: 1.8rem "Avenir Next", Avenir, "-apple-system", Helvetica, Arial, sans-serif;
+	font: 1.8rem system-ui, sans-serif;
 	color: #373737;
 	text-rendering: optimizeLegibility;
 }
