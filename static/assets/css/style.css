@@ -22,9 +22,13 @@ html, body {
 	height: 100%;
 }
 
+html {
+	font-size: 62.5%;
+}
+
 body {
-	font: 17px "Avenir Next", Avenir, "-apple-system", Helvetica, Arial, sans-serif;
-	color: #666;
+	font: 1.7rem "Avenir Next", Avenir, "-apple-system", Helvetica, Arial, sans-serif;
+	color: #373737;
 	text-rendering: optimizeLegibility;
 }
 
